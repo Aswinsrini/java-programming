@@ -1,0 +1,102 @@
+* {
+  background-color: powderblue;
+}
+.blank {
+  margin-top: 100px;
+}
+.line {
+  position: absolute;
+  background-color: black;
+  height: 8px;
+  width: 70px;
+  margin-left: 650px;
+  margin-top: 8px;
+  transform: rotate(35deg);
+  border-radius: 20%;
+}
+.hat {
+  position: absolute;
+  height: 0;
+  width: 20px;
+  border-bottom: 24px solid #625d5d;
+  margin-left: 660px;
+  margin-top: -10px;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  transform: rotate(35deg);
+}
+.circle1 {
+  border-radius: 50%;
+  background-color: white;
+  margin-left: 600px;
+  margin-bottom: -10px;
+  width: 100px;
+  height: 100px;
+}
+.circle2 {
+  border-radius: 50%;
+  background-color: white;
+  margin-left: 555px;
+  margin-top: -px;
+  width: 200px;
+  height: 200px;
+}
+#eye1 {
+  position: absolute;
+  background-color: black;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  margin-top: 28px;
+  margin-left: 28px;
+}
+#eye2 {
+  position: absolute;
+  background-color: black;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  margin-top: 28px;
+  margin-left: 55px;
+}
+
+#nose {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-left: 7px solid white;
+  border-right: 7px solid white;
+  border-top: 30px solid orange;
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+.but1 {
+  position: absolute;
+  background-color: black;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  margin-top: 40px;
+  margin-left: 85px;
+}
+
+.but2 {
+  position: absolute;
+  background-color: black;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  margin-top: 80px;
+  margin-left: 85px;
+}
+.but3 {
+  position: absolute;
+  background-color: black;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  margin-top: 120px;
+  margin-left: 85px;
+}
